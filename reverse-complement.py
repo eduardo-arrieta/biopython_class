@@ -19,7 +19,7 @@ USAGE
     % python reverse-complement.py -i filename
     
     example
-    
+    % python  reverse-complement.py -i sequence.txt
     % python reverse-complement -i
 
 '''
