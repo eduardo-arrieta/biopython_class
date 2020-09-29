@@ -20,8 +20,9 @@ USAGE
     
     example
     % python  reverse-complement.py -i sequence.txt
-    
-DONT README I AM SCARED
+    % python reverse-complement -i
+
+DONT README I AM SCARED 2
 '''
 
 import argparse
