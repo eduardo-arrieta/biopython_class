@@ -20,7 +20,8 @@ USAGE
     example
     
     % python AT-percentage.py -i sequence.txt
-        
+
+Esto no lo voy a ver        
 '''
 import argparse
 

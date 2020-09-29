@@ -23,6 +23,7 @@ USAGE
     % python reverse-complement -i
 
 DONT README I AM SCARED 2
+Esto no lo voy a ver
 '''
 
 import argparse
